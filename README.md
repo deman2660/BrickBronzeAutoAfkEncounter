@@ -39,7 +39,7 @@ pytesseract is only a wrapper and will not work without it.
 
 ### Download
 Download the official Windows build from:
-https://github.com/UB-Mannheim/tesseract/wiki
+[https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe)
 
 ### Installation
 During installation, make sure to enable:
