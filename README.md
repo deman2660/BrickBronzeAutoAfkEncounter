@@ -27,9 +27,9 @@ Python 3.10 or newer is recommended but 3.14 won't work. I personally choose 3.1
 
 ### Python packages
 Install all dependencies with pip:
-
+```
 pip install pywin32 mss numpy opencv-python pytesseract psutil pydirectinput pynput
-
+```
 ---
 
 ## Tesseract OCR (Required)
@@ -51,9 +51,9 @@ C:\Program Files\Tesseract-OCR\
 
 ### Verify installation
 Open a command prompt and run:
-
+```
 tesseract --version
-
+```
 If version information is printed, Tesseract is installed correctly.
 
 ---
@@ -79,9 +79,9 @@ Project documentation.
 1. Launch Roblox
 2. Enter an area with wild Pokémon encounters
 3. Run the script:
-
+```
 python ocr_pokemon.py
-
+```
 4. The Pokémon picker window will open
 5. Search for and add one or more target Pokémon
 6. Click Start
