@@ -1,4 +1,4 @@
-# Roblox Pokémon OCR Hunter
+# Roblox Brick Bronze │ Roria Conquest Pokémon Encounter Bot
 
 A Python automation script for Roblox Pokémon games that walks your character in a small loop, detects wild encounters, reads the Pokémon name using OCR, compares it against a target list, and alerts you when a desired Pokémon appears.
 
